@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\HOC\dotNet\QuanLyKho\QuanLyKho\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Admin\UserControlDanhSachNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\UserControlDashBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\UserControlHoSo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin\UserControlThemNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormTestKetNoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSuaNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmThemLoaiSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVien\UserControlDanhMucSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhanVien\UserControlDanhSachSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhanVien\UserConTrolLichSu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhanVien\UserControlNhaPhanPhoi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NhanVien\UserControlNhapXuat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserConTrolNhanVien\FrmSuaSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserConTrolNhanVien\FrmSuaThemNhaPhanPhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
