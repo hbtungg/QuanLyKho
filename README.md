@@ -14,7 +14,7 @@ Chào mừng bạn đến với dự án Quản Lý Kho, một ứng dụng Wind
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/hbtungg/QuanLyKho
+   [git clone https://github.com/hbtungg/QuanLyKho](https://github.com/hbtungg/QuanLyKho.git)
 Mở solution trong Visual Studio.
 
 Build và chạy ứng dụng.
